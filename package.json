@@ -3,8 +3,11 @@
 	"author": "Rohit Dhawan",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example":"1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,6 +15,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/rohitreborn/boilerplate-npm"
 	}
 }
